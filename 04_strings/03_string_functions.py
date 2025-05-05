@@ -1,0 +1,11 @@
+print("string functions")
+mi_nombre_completo = "jhon doe perez"
+print(mi_nombre_completo.capitalize())
+print(mi_nombre_completo.upper())
+print(mi_nombre_completo.count("h"))
+print(mi_nombre_completo.lower())
+print(mi_nombre_completo.isalnum())
+print("1".isdigit())
+print(mi_nombre_completo.upper().isupper())
+print(mi_nombre_completo.replace("e","f"))
+print(mi_nombre_completo.startswith("jhon"))
